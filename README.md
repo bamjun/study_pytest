@@ -1,5 +1,11 @@
 # pytest  [링크](https://docs.pytest.org/en/7.1.x/index.html)
 [유튜브](https://youtu.be/cHYq1MRoyI0?t=983)
+
+https://dev.to/sherlockcodes/pytest-with-django-rest-framework-from-zero-to-hero-8c4
+https://www.django-rest-framework.org/tutorial/quickstart/
+https://toss.im/career/job-detail?gh_jid=5904994003&gh_src=e169b3903us&utm_source=toss_careerpage&utm_medium=banner&utm_campaign=2402_python
+
+
 ```bash  
 # bash shell  
 pip install pytest  
